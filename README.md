@@ -36,7 +36,7 @@
 <br />
 
 ---
-
+<!-- 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -44,7 +44,7 @@
   <img align="left" alt="GitHub Status" src="https://github-readme-stats-three-bice.vercel.app
 /api?username=harlleybastos&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [instagram]: https://instagram.com/harlleydavidsonbr
 [linkedin]: https://linkedin.com/in/harlley-bastos
