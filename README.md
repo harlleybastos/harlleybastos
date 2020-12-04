@@ -9,10 +9,11 @@
 - 🥅 Metas de 2020: contribuir mais para projetos de código aberto
 - ⚡ Curiosidade: Adoro ouvir musicas / Codar
 
-<!-- ### Spotify 🎧
+### Spotify 🎧
 
-[<img src="https://github-readme-stats-three-bice.vercel.app/api/spotify-playing" alt="Player Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
- -->
+[<img src="https://gitmusicplayer.vercel.app/api/spotify-playing" alt="Player Spotify" width="350" />](https://open.spotify.com/user/nlalglaltlo)
+
+
 
 
 
@@ -20,7 +21,6 @@
 ### Siga-me nas redes sociais:
 
 [<img align="left" alt="Harlley Bastos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Harlley Bastos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -47,11 +47,7 @@
 
 ---
 
-[![Spotify](https://gitmusicplayer.vercel.app/api/spotify)](https://open.spotify.com/user/nlalglaltlo)
-
 
 ---
 
-
-[instagram]: https://instagram.com/harlleydavidsonbr
 [linkedin]: https://linkedin.com/in/harlley-bastos
