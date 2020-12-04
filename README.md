@@ -36,9 +36,4 @@
 
 </details>
 
----
-
-
----
-
 [linkedin]: https://linkedin.com/in/harlley-bastos
