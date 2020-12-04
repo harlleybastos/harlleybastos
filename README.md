@@ -11,7 +11,7 @@
 
 ### Spotify 🎧
 
-[<img src="https://gitmusicplayer.vercel.app/api/spotify-playing" alt="Player Spotify" width="350" />](https://open.spotify.com/user/nlalglaltlo)
+[<img src="https://github-readme-stats-three-bice.vercel.app/api/spotify-playing" alt="Player Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 
