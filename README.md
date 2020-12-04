@@ -45,5 +45,10 @@
 
 </details>
 
+---
+
+[![Spotify](https://gitmusicplayer.vercel.app/api/spotify)](https://open.spotify.com/user/nlalglaltlo)
+
+
 [instagram]: https://instagram.com/harlleydavidsonbr
 [linkedin]: https://linkedin.com/in/harlley-bastos
