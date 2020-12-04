@@ -9,15 +9,6 @@
 - 🥅 Metas de 2020: contribuir mais para projetos de código aberto
 - ⚡ Curiosidade: Adoro ouvir musicas / Codar
 
-### Spotify 🎧
-
-[<img src="https://github-readme-stats-three-bice.vercel.app/api/spotify-playing" alt="Player Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
-
-
-
 ### Siga-me nas redes sociais:
 
 [<img align="left" alt="Harlley Bastos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
