@@ -47,9 +47,9 @@
 
 ---
 
-[![Spotify](https://harlleybastos.vercel.app/api/spotify)](https://open.spotify.com/user/nlalglaltlo)
+ [<img src="https://gitmusicplayer.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/nlalglaltlo)
 
-
+---
 
 
 [instagram]: https://instagram.com/harlleydavidsonbr
