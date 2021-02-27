@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente,estou aprendendo tudo de tudo um pouco 🤣
 - 🚀 Estou buscando desenvolver pequenos projetos para melhorar como profissional na area
-- 🥅 Metas de 2020: contribuir mais para projetos de código aberto
+- 🥅 Metas de 2021: Aprender mais e mais !
 - ⚡ Curiosidade: Adoro ouvir musicas / Codar
 
 ### Siga-me nas redes sociais:
