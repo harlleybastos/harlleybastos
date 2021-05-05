@@ -10,11 +10,18 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 + 💻 HTML | CSS | JS
 
 ## Examples of Work
-
-<img align="left" src="https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif" alt="Made with Angular" title="Angular" hspace="20" width="456"/>
-<img align="left" src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" alt="Made with Bootstrap" title="Bootstrap" width="456" hspace="20"/>
-<img align="left" src="https://github.com/harlleybastos/poke-native/blob/main/src/image/gifApp.gif" alt="Developed using Browsersync" title="Browsersync" width="456" hspace="20"/>
-
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
+  </tr>
+ </table>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harlleybastos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harlley-bastos/)  
 
