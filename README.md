@@ -9,6 +9,9 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 + 📱 React Native
 + 💻 HTML | CSS | JS
 
+## Examples of Work
+
+<img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width="256">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harlleybastos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harlley-bastos/)  
 
