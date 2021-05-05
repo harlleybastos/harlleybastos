@@ -11,20 +11,20 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 
 ## Examples of Work
 
-<ul style="list style:none; display:flex; flex-direction:row;">
+
   
-  <li >
+
 <a href="https://github.com/harlleybastos/ebook-lading_page-seller" target="_blank">
 <img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width="456">
 </a>
-<li/>
-<li>
+
+
 <a href="https://github.com/harlleybastos/website-HarlleyDavidson" target="_blank">
 <img src="https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif" width="456">
 </a>
-  </li>
 
-</ul>
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harlleybastos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harlley-bastos/)  
