@@ -11,20 +11,9 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 
 ## Examples of Work
 
-
-  
-
-
-Lading page - E-Book             |  Website Harley Davidson
-:-------------------------:|:-------------------------:
-![](https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif)  |  ![](https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif)
-
-
-PokeNative             |  Despesas Pessoais (Personal Expenses)
-:-------------------------:|:-------------------------:
-![](<a href="https://github.com/harlleybastos/poke-native" target="_blank">https://github.com/harlleybastos/poke-native/blob/main/src/image/gifApp.gif</a>)  |  ![](https://github.com/harlleybastos/despesas-pessoais/blob/master/assets/images/despesaspessoais.gif)
-
-
+<img align="left" src="https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="https://github.com/harlleybastos/poke-native/blob/main/src/image/gifApp.gif" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harlleybastos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harlley-bastos/)  
