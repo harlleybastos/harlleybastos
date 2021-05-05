@@ -14,16 +14,10 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 
   
 
-<a href="https://github.com/harlleybastos/ebook-lading_page-seller" target="_blank">
-<img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width="456" border="10">
-</a>
 
-
-<a href="https://github.com/harlleybastos/website-HarlleyDavidson" target="_blank">
-<img src="https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif" width="456" border="10">
-</a>
-
-
+Lading page - E-Book             |  Website Harley Davidson
+:-------------------------:|:-------------------------:
+![](https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif)  |  ![](https://github.com/harlleybastos/website-HarlleyDavidson/blob/main/res/img/gifWebsite.gif)
 
 
 
