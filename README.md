@@ -22,7 +22,7 @@ Lading page - E-Book             |  Website Harley Davidson
 
 PokeNative             |  Despesas Pessoais (Personal Expenses)
 :-------------------------:|:-------------------------:
-![]<a href="https://github.com/harlleybastos/poke-native" target="_blank">(https://github.com/harlleybastos/poke-native/blob/main/src/image/gifApp.gif)</a>  |  ![](https://github.com/harlleybastos/despesas-pessoais/blob/master/assets/images/despesaspessoais.gif)
+![](<a href="https://github.com/harlleybastos/poke-native" target="_blank">https://github.com/harlleybastos/poke-native/blob/main/src/image/gifApp.gif</a>)  |  ![](https://github.com/harlleybastos/despesas-pessoais/blob/master/assets/images/despesaspessoais.gif)
 
 
 
