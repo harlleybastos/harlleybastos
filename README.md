@@ -17,9 +17,9 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
-    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
-    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=270 height=480></td>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=456></td>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=456></td>
+    <td><img src="https://github.com/harlleybastos/ebook-lading_page-seller/blob/master/src/assets/img/gifEbook.gif" width=456 height=480></td>
   </tr>
  </table>
 
