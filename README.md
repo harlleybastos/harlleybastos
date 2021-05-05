@@ -5,9 +5,10 @@ I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applicatio
 
 
 ## Skills and Experience
-+ ⚛ React
-+ 📱 React Native
-+ 💻 HTML | CSS | JS
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) [![Flutter Badge](https://img.shields.io/badge/-Flutter-0d47a1?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#)
+
+
+
 
 ## Examples of Work
 <table>
