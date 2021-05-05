@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Harlley Bastos
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.imgur.com/cstfOFW.png)
+![I am GitHub Readme Generator's creator](https://github.com/harlleybastos/harlleybastos/blob/main/CoverGit.png)
 
 I'm Harlley from Rio Claro, São Paulo - Brazil , I develop front-end applications but I adapt easily to new scenarios. i really enjoy learning, languages and frameworks like React, React Native , in addition to currently studying Flutter. I also like to study back-end, user interface, design in general.
 
