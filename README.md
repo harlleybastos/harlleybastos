@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Portfolio](https://github.com/harlleybastos/portfolio)**
+- 🔭 I’m currently working on **[Blog Sons of Harllão](https://github.com/harlleybastos/blog-sons-of-harllao)**
 
 - 🌱 I’m currently learning **Flutter | NextJS | Tailwind.**
 
