@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Blog Sons of Harllão](https://github.com/harlleybastos/blog-sons-of-harllao)**
+- 🔭 I’m currently working on **[Blog Sons of Harllão](https://github.com/harlleybastos/blog-sons-of-harllao)** and **[Personal Expensives App](https://github.com/harlleybastos/personal_expensives_app_flutter)**
 
 - 🌱 I’m currently learning **Flutter | NextJS | Tailwind.**
 
