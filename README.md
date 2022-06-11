@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/fPHzpJ7.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harlley</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30">, I'm Harlley</h1>
 <h3 align="center">I'm a Front-End Developer from Brazil.</h3>
 
 
@@ -10,15 +10,9 @@
 
 - 🚀 I'm currently developing **[League of Flutter](https://github.com/harlleybastos/league-of-flutter)**
 
-- 🌱 I’m currently learning **Flutter | NextJS | Cypress**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **Flutter | Golang | Cypress**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 How to reach me **harlleybastos@hotmail.com**
-
-- ⚡ Fun fact **I really enjoy being actively learning something new and I don't like to waste my time.**
 
 ## 🚀 Languages and Tools:
 
