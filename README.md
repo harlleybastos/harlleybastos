@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **[Pecege](https://pecege.com/)**
 
-- 🚀 I'm currently developing **[League of Flutter](https://github.com/harlleybastos/league-of-flutter)**
+- 🚀 I'm currently developing **[Blog Rails Demo](https://github.com/harlleybastos/rails-blog-demo)**
 
-- 🌱 I’m currently learning **Flutter | Golang | Cypress**
+- 🌱 I’m currently learning **Ruby on Rails | Flutter**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
@@ -19,6 +19,7 @@
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/12-120961_logo-ruby-on-rails-hd-png-download.png" width='48'/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45" height="45" alt="talwind"/> </a>
     <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.png" width="45" height="45"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a> 
