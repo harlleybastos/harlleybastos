@@ -19,7 +19,7 @@
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" width='48'/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://assets.stickpng.com/images/62c48bbdd884e8c372162223.png" width='48'/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45" height="45" alt="talwind"/> </a>
     <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.png" width="45" height="45"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a> 
