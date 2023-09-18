@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Pecege](https://pecege.com/)**
+- 🔭 I’m currently working on **[DevSquad](https://www.devsquad.site/)**
 
-- 🚀 I'm currently developing **[Blog Rails Demo](https://github.com/harlleybastos/rails-blog-demo)**
+<!-- - 🚀 I'm currently developing **[Blog Rails Demo](https://github.com/harlleybastos/rails-blog-demo)** -->
 
-- 🌱 I’m currently learning **Ruby on Rails | Flutter**
+- 🌱 I’m currently learning and improving my skills related to **Ruby on Rails**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
@@ -52,8 +52,6 @@
   </div>
 <br/>
 <br/>
-
-<a href="https://github.com/harlleybastos/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harlleybastos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
