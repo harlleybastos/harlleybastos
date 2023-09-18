@@ -20,7 +20,7 @@
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png"  width='48' height='48'/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://pngimg.com/d/php_PNG35.png"  width='48' height='48'/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" style="object-fit:contain;" width='48' height='48'/> </a>
     <a href="https://rubyonrails.org/" target="_blank"> <img src="https://www.adrenalina.es/wp-content/uploads/2020/04/desarrollador-ruby-on-rails.png" width='48' height='48'/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45" height="45" alt="talwind"/> </a>
     <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.png" width="45" height="45"/> </a>
