@@ -6,12 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DevSquad](https://www.devsquad.site/)**
+- 🔭 I’m currently working on **Myself**
 
 <!-- - 🚀 I'm currently developing **[Blog Rails Demo](https://github.com/harlleybastos/rails-blog-demo)** -->
 
 - 🌱 I’m currently learning and improving my skills related to **Ruby on Rails**
-- 📚 Besides English I’m currently studying and improving my language skills on **French** and **Spanish**
+  
+- 📚 Besides English I’m currently studying and improving my language skills on **French**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
