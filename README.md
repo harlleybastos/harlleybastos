@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:0d47a1,100:1565c0&height=1&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a4a6e,100:2d7cb5&height=120&section=header"/>
 
 <br/>
 
@@ -19,46 +19,42 @@
 
 </div>
 
----
+&nbsp;
 
 <div align="center">
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### 〈 &nbsp; Tech Stack &nbsp; 〉
 
 <br/>
 
-![React](https://img.shields.io/badge/React-0d47a1?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d47a1?style=flat-square&logo=typescript&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-0d47a1?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0d47a1?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0d47a1?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d47a1?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<br/>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2d7cb5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2d7cb5)
+![Ruby on Rails](https://img.shields.io/badge/Rails-0D1117?style=for-the-badge&logo=ruby-on-rails&logoColor=2d7cb5)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=2d7cb5)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=2d7cb5)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2d7cb5)
 
 </div>
 
----
+&nbsp;
 
 <div align="center">
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub Stats&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### 〈 &nbsp; GitHub Stats &nbsp; 〉
 
 <br/>
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=1565c0&icon_color=1565c0&text_color=ffffff&count_private=true&hide_title=true"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cb5&icon_color=2d7cb5&text_color=FFFFFF&count_private=true&hide_title=true"/>
 
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&hide_border=true&background=0a0a0a&stroke=1565c0&ring=0d47a1&fire=1565c0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1565c0&sideLabels=1565c0&dates=888888"/>
-
-<br/>
+<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&hide_border=true&background=0D1117&stroke=2d7cb5&ring=2d7cb5&fire=2d7cb5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2d7cb5&sideLabels=2d7cb5&dates=888888"/>
 
 </div>
 
----
+&nbsp;
 
 <div align="center">
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐍 Contributions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### 〈 &nbsp; Contribution Graph &nbsp; 〉
 
 <br/>
 
@@ -68,24 +64,24 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake.svg" />
 </picture>
 
-<br/>
-
 </div>
 
----
+&nbsp;
 
 <div align="center">
 
-<br/>
-
-**Open for exciting collaborations and opportunities!**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a4a6e,100:2d7cb5&height=2&section=header"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harlleybastos&style=flat-square&color=0d47a1"/>
+**Open for exciting collaborations and opportunities**
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1565c0,50:0d47a1,100:0a0a0a&height=3&section=footer"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=harlleybastos&style=flat-square&color=2d7cb5)](https://github.com/harlleybastos)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a4a6e,100:2d7cb5&height=100&section=footer"/>
 
 </div>
