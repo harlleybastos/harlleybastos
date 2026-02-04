@@ -58,9 +58,13 @@ const harlley = {
 ## &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&hide_border=true&bg_color=0a1628&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true&hide_title=true"/>
+  <a href="https://github.com/harlleybastos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true&hide_title=true"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&hide_border=true&background=0a1628&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
+  <a href="https://github.com/harlleybastos">
+    <img height="160em" src="https://streak-stats.demolab.com/?user=harlleybastos&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681"/>
+  </a>
 </div>
 
 <br/>
