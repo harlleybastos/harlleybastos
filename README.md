@@ -1,19 +1,55 @@
 <div align="center">
-  
+
+<!-- Profile Picture -->
+<img src="https://github.com/harlleybastos.png" width="180" style="border-radius: 50%; border: 3px solid #1E90FF; box-shadow: 0 0 20px #1E90FF;"/>
+
+<br/><br/>
+
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harlley%20Bastos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20|%20Building%20Digital%20Experiences&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:1a1a2e,100:1E90FF&height=120&section=header&text=Harlley%20Bastos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20II%20@%20John%20Deere%20|%20Content%20Creator&descAlignY=78&descSize=14&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Transforming+ideas+into+elegant+code;Full+Stack+Engineer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;5%2B+years+of+crafting+web+solutions;Always+learning%2C+always+evolving" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer+II+%40+John+Deere+%F0%9F%9A%9C;Content+Creator+%7C+Tech+%26+Development;Full+Stack+Engineer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Transforming+ideas+into+elegant+code;Always+learning%2C+always+evolving" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harlley-bastos/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@harlleybastos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harlleybastos)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@harlleybastos)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harlleybastos)
-[![Profile Views](https://komarev.com/ghpvc/?username=harlleybastos&style=for-the-badge&color=blueviolet)](https://github.com/harlleybastos)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harlleybastos&style=flat-square&color=1E90FF)
+![Followers](https://img.shields.io/github/followers/harlleybastos?style=flat-square&color=1E90FF&labelColor=0a0a0a)
 
 </div>
+
+---
+
+## 💼 Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚜 Software Engineer II @ John Deere
+Building innovative solutions for agriculture technology, developing scalable applications that impact farmers worldwide.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Content Creator
+Sharing knowledge about tech & development on:
+- 📺 **YouTube** - Tutorials & Tech Content
+- 📸 **Instagram** - Dev Life & Tips
+- 🎵 **TikTok** - Quick Tech Bites
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,12 +58,12 @@
 ```javascript
 const harlley = {
     location: "Brazil 🇧🇷",
-    role: "Full Stack Engineer",
+    currentRole: "Software Engineer II @ John Deere",
+    sideHustle: "Content Creator",
     languages: ["Portuguese", "English", "French (learning)"],
-    currentFocus: "Building scalable web applications",
     
     code: ["JavaScript", "TypeScript", "Ruby", "PHP", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev", "clean architecture"],
+    askMeAbout: ["web dev", "tech", "content creation", "clean architecture"],
     
     technologies: {
         frontEnd: {
@@ -88,16 +124,16 @@ const harlley = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlleybastos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&count_private=true&ring_color=1E90FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlleybastos&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=1E90FF&text_color=FFFFFF&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&theme=transparent&hide_border=true&background=0a0a0a&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=888888"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harlleybastos&custom_title=Harlley's%20Contribution%20Graph&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harlleybastos&custom_title=Contribution%20Graph&bg_color=0a0a0a&color=1E90FF&line=1E90FF&point=FFFFFF&area_color=1E90FF&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -105,7 +141,7 @@ const harlley = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harlleybastos&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harlleybastos&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&title_color=1E90FF"/>
 </div>
 
 ---
@@ -125,7 +161,7 @@ const harlley = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=1E90FF"/>
 </div>
 
 ---
@@ -135,15 +171,26 @@ const harlley = {
 ### 🤝 Let's Connect & Build Something Amazing Together!
 
 <a href="https://www.linkedin.com/in/harlley-bastos/" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@harlleybastos" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://instagram.com/harlleybastos" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://tiktok.com/@harlleybastos" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
 <br/><br/>
 
-**💼 Open for exciting opportunities and collaborations!**
+**💼 Software Engineer II @ John Deere | Content Creator**
+
+**Open for exciting collaborations and opportunities!**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:1E90FF&height=100&section=footer"/>
 
 </div>
