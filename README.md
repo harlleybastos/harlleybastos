@@ -1,73 +1,149 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/fPHzpJ7.gif" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30">, I'm Harlley</h1>
-<h3 align="center">I'm a Full Stack Engineer from Brazil.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Myself**
-
-<!-- - 🚀 I'm currently developing **[Blog Rails Demo](https://github.com/harlleybastos/rails-blog-demo)** -->
-
-- 🌱 I’m currently learning and improving my skills related to **Ruby on Rails**
+<div align="center">
   
-- 📚 Besides English I’m currently studying and improving my language skills on **French**
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harlley%20Bastos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20|%20Building%20Digital%20Experiences&descAlignY=51&descAlign=50"/>
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png"  width='48' height='48'/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" style="object-fit:contain;" width='48' height='48'/> </a>
-    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://www.adrenalina.es/wp-content/uploads/2020/04/desarrollador-ruby-on-rails.png" width='48' height='48'/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="45" height="45" alt="talwind"/> </a>
-    <a href="https://www.cypress.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.png" width="45" height="45"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/harlleybastos/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-  <div align="center">
-   <a href="https://github.com/harlleybastos/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/harlleybastos/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlleybastos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </div>
-<br/>
-<br/>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Transforming+ideas+into+elegant+code;Full+Stack+Engineer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;5%2B+years+of+crafting+web+solutions;Always+learning%2C+always+evolving" alt="Typing SVG" /></a>
 
 <br/>
-<br/>
 
-## Connect with me:
-<p align="left">
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harlley-bastos/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harlleybastos)
+[![Profile Views](https://komarev.com/ghpvc/?username=harlleybastos&style=for-the-badge&color=blueviolet)](https://github.com/harlleybastos)
 
-<a href = "https://www.linkedin.com/in/harlley-bastos/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</div>
 
-</p>
+---
 
-## ❤ Views and Followers
-<a href="https://github.com/harlleybastos/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=harlleybastos">
+## ⚡ About Me
+
+```javascript
+const harlley = {
+    location: "Brazil 🇧🇷",
+    role: "Full Stack Engineer",
+    languages: ["Portuguese", "English", "French (learning)"],
+    currentFocus: "Building scalable web applications",
+    
+    code: ["JavaScript", "TypeScript", "Ruby", "PHP", "Dart"],
+    askMeAbout: ["web dev", "tech", "app dev", "clean architecture"],
+    
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "Styled Components", "SASS"],
+            mobile: ["Flutter"]
+        },
+        backEnd: {
+            ruby: ["Ruby on Rails"],
+            php: ["WordPress", "Laravel"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["PostgreSQL", "MySQL", "Firebase", "MongoDB"],
+        devOps: ["Docker", "AWS", "CI/CD", "GitHub Actions"],
+        testing: ["Cypress", "Jest", "RSpec"]
+    },
+    
+    currentlyLearning: "Advanced Ruby on Rails patterns",
+    funFact: "I debug with console.log and I'm not ashamed 😎"
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harlleybastos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlleybastos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harlleybastos&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harlleybastos&custom_title=Harlley's%20Contribution%20Graph&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harlleybastos&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harlleybastos/harlleybastos/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together!
+
+<a href="https://www.linkedin.com/in/harlley-bastos/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/harlleybastos?tab=followers"><img src="https://img.shields.io/github/followers/harlleybastos?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/><br/>
+
+**💼 Open for exciting opportunities and collaborations!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
