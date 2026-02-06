@@ -34,6 +34,24 @@ const harlley = {
 
 <br/>
 
+## &nbsp;My Motto
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     "I don't stop when I'm tired, I stop when I'm done."                     ║
+║                                                                              ║
+║                                                         — David Goggins      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
 ## &nbsp;Tech Stack
 
 <div align="center">
