@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: harlleybastos
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#2d7cc4
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2d7cc4
         
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
