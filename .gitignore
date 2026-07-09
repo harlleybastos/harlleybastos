@@ -1,0 +1,6 @@
+# Receita da marca fica só local — no repo público vai apenas o SVG final
+assets/gen_card.py
+assets/icons/
+
+# Arquivos de sessão do Claude Code
+.claude/
